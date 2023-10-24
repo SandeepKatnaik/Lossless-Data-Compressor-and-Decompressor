@@ -5,6 +5,6 @@
 
 Created by - Sandeep B. Katnaik 
 
-eail - Katnaiksandeep@gmail.com
+email - Katnaiksandeep@gmail.com
 
 KIT College of Engineering, Kolhapur.
