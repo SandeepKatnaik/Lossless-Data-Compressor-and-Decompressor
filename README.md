@@ -5,6 +5,6 @@ The decompression component will then seamlessly reverse this process, ensuring 
 
 Created by - Sandeep B. Katnaik 
 
-email - katnaiksandeep@gmail.com
+Email - katnaiksandeep@gmail.com
 
 KIT College of Engineering, Kolhapur.
